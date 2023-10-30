@@ -1,6 +1,6 @@
 # Pattern-Recognition
 
-**Exercise description in English:**
+**Exercise description:**
 
 Property Price Estimation Using Machine Learning Algorithms
 
